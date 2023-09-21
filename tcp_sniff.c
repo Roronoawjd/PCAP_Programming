@@ -4,7 +4,6 @@
 #include <stdio.h>
 #include <pcap.h>
 #include <arpa/inet.h>
-#include <netinet/ether.h>
 
 /* Ethernet header */
 struct ethheader {
